@@ -8,6 +8,7 @@ class Adder():
         self.val2 = val2
 
     def getSum(self):
+        print("Adder complete")
         return self.val1 + self.val2
 
 
