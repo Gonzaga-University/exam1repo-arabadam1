@@ -7,8 +7,8 @@ class Adder {
     public Adder(int new_val1, int new_val2) {
         val1 = new_val1;
         val2 = new_val2;
+        print("Adder complete")
     }
-
 
 }
 
