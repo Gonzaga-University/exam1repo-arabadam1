@@ -8,7 +8,12 @@ class Adder():
         self.val2 = val2
 
     def getSum(self):
+        print("Adder complete")
         return self.val1 + self.val2
+        
+    def getProduct(self):
+        print("Multiplier complete")
+        return self.val1 * self.val2
 
 
 if __name__ == "__main__":
